@@ -5,7 +5,9 @@
 
 I setup each entity with their own primary key (being their ID) as well as their respective values. As well as an entity that has a reference to each and all of them (referencing their primary key).
 
+![Logical Model](https://raw.githubusercontent.com/MartinH5/Modelling-OECD-Data/master/Untitled%20Diagram%20(1).png)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 ## 2. SQL 
