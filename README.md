@@ -3,7 +3,7 @@
 
 ## 1. Logical Model
 
-Nogle ord
+I setup each entity with their own primary key (being their ID) as well as their respective values. As well as an entity that has a reference to each and all of them (referencing their primary key).
 
 
 
