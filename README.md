@@ -36,10 +36,7 @@ Create Table value(id serial primary key, value numeric,
                    timeID int references time(id));
 ``` 
 
+I unforunately struggled to establish a connection to my database - using python's psycopg2 and got stuck. 
 
-Then the data was imported using Python's panda: 
 
 
-Then we find the growth rate: 
-
-Didn't get further than this. 
